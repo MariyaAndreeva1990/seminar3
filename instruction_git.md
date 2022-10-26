@@ -101,4 +101,4 @@
 
 Для того, чтобы создать новую ветку необходимо...
 
-git branch <branch_name>
+    git branch <branch_name>
